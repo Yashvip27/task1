@@ -19,7 +19,7 @@ Objective: Clean and prepare the raw Customer Personality Analysis dataset by ad
 - **Microsoft Excel**
 
 ## 📁 Files Included
--`Analysis` : Screenshots attached.
+- `Analysis` : Screenshots attached.
 - `CustomerPersonalityAnalysis_Dataset.xlxs`: Final cleaned dataset.
 - `README.md`: This summary file.
 
