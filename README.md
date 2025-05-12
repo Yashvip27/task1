@@ -23,5 +23,4 @@ Objective: Clean and prepare the raw Customer Personality Analysis dataset by ad
 - `CustomerPersonalityAnalysis_Dataset.xlxs`: Final cleaned dataset.
 - `README.md`: This summary file.
 
-# Output sample
 
